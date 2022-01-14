@@ -1,0 +1,7 @@
+lista1 = ["a","b","c","d","e","f","g","h","i","j"]
+lista1[2:5]
+lista1.append(["gbi6","bio1","ikiam"])
+len (lista1)
+lista1[3]
+lista1.append(["gbi6", "bio1", "ikiam"])
+lista1[-1][-1]
