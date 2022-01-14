@@ -1,4 +1,4 @@
-#Imprimir el directorio de trabajo actual 
+#Imprima el directorio de trabajo actual 
 pwd
 #Crear un directorio test1
 mkdir test1
