@@ -15,6 +15,13 @@
 #ls test1
 
 #ejercicio3
+#pwd
+#mkdir test1
+#touch test1/test1.txt
+#touch test1/test2.txt
+#nano test1/test2.txt
+#touch test1/test1.py
+#nano test1/test1.py
 #ls -lh test1
 #ls -l test1
 #ls -l ./test1
