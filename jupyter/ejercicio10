@@ -1,3 +1,4 @@
+
 lista1 = ["a","b","c","d","e","f","g","h","i","j"]
 lista1[2:5]
 lista1.append(["gbi6","bio1","ikiam"])
