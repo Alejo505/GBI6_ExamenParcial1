@@ -1,0 +1,6 @@
+dic_aminoacidos= dict(Trp="1550 , 5.05",Cys="1905 , 6.21",His="1695 , 5.52",Arg="3093 , 10.08",Met="1102 , 3.59",Tyr="1525 , 4.97",Gln="1830 , 5.96",Phe="1616 , 5.27",Asp="1691 , 5.51",Pro="1598 , 5.21",Ala="2018 , 6.58",Asn="1103 , 3.59",Lys="1366 , 4.45",Glu="1471 , 4.79",Gly="1386 , 4.52",Thr="1147 , 3.74",Val="1225 , 3.99",Ile="1033 , 3.37",Ser="1206 , 3.93",Leu="1127 , 3.67")
+print (dic_aminoacidos,"\n")
+aminoacidos=dic_aminoacidos.keys()
+print(aminoacidos,"\n")
+propiedades=dic_aminoacidos.values()
+print(propiedades)
