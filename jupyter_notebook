@@ -1,4 +1,16 @@
 #!/bin/bash
-#ejercicio
-pwd
+#ejercicio1
+#pwd
+#ejercicio2
+#pwd
+#mkdir test1
+#touch test1/test1.txt
+#touch test1/test2.txt
+#nano test1/test2.txt
+#touch test1/test1.py
+#nano test1/test1.py
+#ls test1/
+#ls ./test1
+#ls test1
+
 
